@@ -1,0 +1,15 @@
+{
+  "name": "Airdroid",
+  "description": "My first Chrome App. Connect to mobile",
+  "version": "0.1",
+  "manifest_version": 2,
+  "permissions": [ "webview" ],
+  "icons": {"128":"icon.png"
+
+  },
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
