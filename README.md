@@ -10,7 +10,7 @@ The offical app is available to windows and is bloated, I am a linux user and I 
 
 ```
  You can also search in Unity Search if you're on Ubuntu
- Go here to find your app chrome://apps/
+ Go here to find your app [chrome://apps/](chrome://apps/)
 
 
 
